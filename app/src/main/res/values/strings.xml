@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeLord</string>
+    <string name="reddit">Reddit</string>
+    <string name="next">Next</string>
+    <string name="meme_page">Meme Image</string>
+    <string name="ups">Ups</string>
+</resources>
